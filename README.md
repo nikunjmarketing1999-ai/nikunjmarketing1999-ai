@@ -14,6 +14,9 @@ Fine-tuned Llama 3.1 8B for bank comparable-companies analysis on Fireworks AI �
 **[Banker Trainer](https://github.com/nikunjmarketing1999-ai/banker-trainer-showcase)**
 A voice-enabled, **100% local** AI training simulator for retail-bank associates — practice customer conversations against six AI personas and get an AI coach scorecard. Ollama + Whisper + Piper + Streamlit, all on-device.
 
+**[Hardware COGS Scenario Studio](https://github.com/nikunjmarketing1999-ai/hardware-cogs-scenario-studio)** · [▶ live demo](https://nikunjmarketing1999-ai.github.io/hardware-cogs-scenario-studio/)
+An interactive FP&A scenario model for hardware **landed-cost under tariff & sourcing pressure** — move a driver, see margin impact, a cost bridge, a biggest-levers ranking, and an **auto-generated variance read** in real time. Self-contained HTML — vanilla JS + SVG, no build, no dependencies.
+
 ---
 
 ### 🛠️ What I work with
