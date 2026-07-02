@@ -34,6 +34,12 @@ Closing the **cost–quality frontier** for high-volume, vertical financial work
 
 ---
 
+Source for my personal site — Nikunj Brahmbhatt · Finance × Applied AI.
+
+Live: https://nikunjmarketing1999-ai.github.io/
+
+Single self-contained HTML file (vanilla, inline SVG, Google Fonts). No build, no dependencies.
+
 ### 📫 Connect
 
 - LinkedIn: [nikunj-brahmbhatt-mba](https://www.linkedin.com/in/nikunj-brahmbhatt-mba-384526221)
