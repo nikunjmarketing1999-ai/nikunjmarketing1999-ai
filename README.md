@@ -2,11 +2,9 @@
 
 **Enterprise AI Value Strategy Consultant bringing practical AI to financial-services workflows.**
 
-Enterprise AI Strategy Consultant with hands-on technical fluency in Large Language Models (LLMs), fine-tuning (SFT, LoRA), Retrieval-Augmented
-Generation (RAG), AI agents, and evaluation frameworks, combined with a trusted-advisor approach to Fortune 500 clients. Diagnoses
-organizational pain points, shapes AI and data strategy and transformation roadmaps, and translates AI products and services into measurable
-operational efficiency for C-suite executives. Owns client relationships end-to-end and operates with high agency and structured problem-solving
-in ambiguous, fast-moving environments.
+Enterprise AI Strategy Consultant & Architect bridging the gap between C-suite vision and production-grade AI.
+I design high-impact AI roadmaps and build hands-on solutions utilizing LLMs, fine-tuning (LoRA/SFT), RAG, and AI agents.
+Committed to translating complex architectures into measurable operational efficiency and trusted Fortune 500 partnerships.
 ---
 
 ### 🔭 Featured projects
