@@ -1,9 +1,12 @@
 # Hi, I'm Nikunj 👋
 
-**Investment analyst bringing practical AI to financial-services workflows.**
+**Enterprise AI Value Strategy Consultant bringing practical AI to financial-services workflows.**
 
-I sit at the intersection of capital-markets domain knowledge (FIG / bank valuation) and hands-on LLM engineering — vertical fine-tuning, local voice agents, and evaluations that actually hold up under scrutiny.
-
+Enterprise AI Strategy Consultant with hands-on technical fluency in Large Language Models (LLMs), fine-tuning (SFT, LoRA), Retrieval-Augmented
+Generation (RAG), AI agents, and evaluation frameworks, combined with a trusted-advisor approach to Fortune 500 clients. Diagnoses
+organizational pain points, shapes AI and data strategy and transformation roadmaps, and translates AI products and services into measurable
+operational efficiency for C-suite executives. Owns client relationships end-to-end and operates with high agency and structured problem-solving
+in ambiguous, fast-moving environments.
 ---
 
 ### 🔭 Featured projects
